@@ -8,4 +8,7 @@ This project hasn't appeal enough team members and a certain target game to desi
 At this moment it's just a temp file for the others to join and after discussion get a topic to display
 
 The target of this project:
-```Not certain YET```
+```Plant verses Zombies```
+~Certain targets is showed in the file
+# Added functions or other tries
+`to be update`
