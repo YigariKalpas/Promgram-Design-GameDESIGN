@@ -21,14 +21,11 @@
     <ClCompile Include="..\Classes\HelloWorldScene.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="Monobehavior.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
-    <ClCompile Include="Conponent.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
     <ClCompile Include="scene_manager.cpp">
       <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\StartMenuScene.cpp">
+      <Filter>src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -41,10 +38,10 @@
     <ClInclude Include="..\Classes\HelloWorldScene.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="Monobehavior.h">
-      <Filter>src</Filter>
+    <ClInclude Include="StartMenuScene.h">
+      <Filter>win32</Filter>
     </ClInclude>
-    <ClInclude Include="Conponent.h">
+    <ClInclude Include="..\Classes\StartMenuScene.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
