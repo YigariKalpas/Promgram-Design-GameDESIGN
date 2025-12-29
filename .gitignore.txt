@@ -1,0 +1,12 @@
+Debug/
+Release/
+*.pch
+*.sdf
+*.ipch
+*.obj
+*.pdb
+*.tlog
+.vs/
+temp/
+library/
+local/
